@@ -1,0 +1,8 @@
+.listFinish{
+    width: 100vw;
+    height: 5vh;
+    align-items: center;
+    justify-content: center;
+    justify-items: auto;
+    display: flex;
+}
